@@ -1,0 +1,14 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "prettier.printWidth": 500,
+  "editor.fontSize": 13,
+  "dart.lineLength": 500,
+  "php.validate.executablePath": "C:\\apache24\\php\\php.exe",
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    //"editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "intelephense.files.maxSize": 1000000,
+  "intelephense.environment.includePaths": ["C:\\apache24\\htdocs\\ama\\apservice", "C:\\apache24\\htdocs\\ama\\dummyservice\\system"]
+}
